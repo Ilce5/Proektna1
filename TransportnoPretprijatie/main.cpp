@@ -1,3 +1,6 @@
+//Ilce Naumovski INKI869
+//Zadaca 5 - Transportno pretprijatie
+//Presmetka na izminat pat i potroseno gorivo
 #include <iostream>
 #include <vector>
 #include <limits>
@@ -94,6 +97,7 @@ int main(){
                 vkupenBrKilometri = 0;
                 vkupenBrGorivo = 0;
         }
+        
         // 3
         else if(izbor == 3){
             if(kamioni < 1){
